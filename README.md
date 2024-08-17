@@ -2,6 +2,10 @@
 
 This project is a phishing email classifier built using Python and Streamlit. The classifier uses a Naive Bayes model to identify phishing emails based on the presence of certain spam words. The model is trained on a dataset of labeled emails and uses TF-IDF vectorization for text processing.
 
+## Presentation
+
+View the [Canva presentation] (https://www.canva.com/design/DAGBHE0iPm4/8v10Ba2p4A2CCu3qqM_atA/view?utm_content=DAGBHE0iPm4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## Features
 
 - **Spam Word Detection**: Identifies if an email contains spam words from a predefined list.
